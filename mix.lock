@@ -1,0 +1,3 @@
+%{
+  "erlexec": {:hex, :erlexec, "1.9.5", "5ac0f70fb43c298a60b65a3e1bcad58714b0b1f6cd0a70b1e116ff42e65f954c", [:rebar3], [], "hexpm"},
+}
